@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi theremuhamed azeez 👋
+## About me
+Currently working - html css
+## description
+i am studying at RNU
 
 <!--
 **mhdazeez107-bot/mhdazeez107-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
